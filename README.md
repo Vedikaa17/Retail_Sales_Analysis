@@ -9,23 +9,14 @@ The objective of this project is to analyze retail sales data to identify sales 
 - File Used: superstore_cleaned.csv
 - Type: Retail transactional data
 
-## Project Structure
-Retail_Sales_Analysis/
-│
-├── data/
-│   └── superstore_cleaned.csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── powerbi/
-│   └── Retail_Sales_Dashboard.pbix
-│
-├── images/
-│   └── dashboard_screenshot.png
-│
-├── sales.db
-└── README.md
+## Project Files
+
+- `analysis.ipynb` – Jupyter Notebook for data analysis
+- `superstore_cleaned.csv` – Cleaned retail sales dataset
+- `Retail_Sales_Dashboard.pbix` – Power BI dashboard file
+- `dashboard_screenshot.png` – Dashboard preview image
+- `sales.db` – Database file
+- `README.md` – Project documentation
 
 ## Tools & Technologies Used
 - Python (Pandas, NumPy)
@@ -67,3 +58,4 @@ Retail_Sales_Analysis/
 - Business Insight Generation
 - Data Visualization
 - Power BI Dashboard Design
+
